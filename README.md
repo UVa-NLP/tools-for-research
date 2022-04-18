@@ -7,3 +7,6 @@
 | [Markdown](notes/markdown.md) | A lightweight markup language for creating notes and todo lists |
 | [Makefile](notes/makefile.md) |                                                                 |
 | [Tmux](notes/tmux.md)         |                                                                 |
+| [Zotero](notes/zotero.md)     | A reference manager                                             |
+|                               |                                                                 |
+
