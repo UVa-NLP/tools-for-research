@@ -2,8 +2,8 @@
 
 | Name                    | Description                                                     |
 | :---                    | :---                                                            |
-| [Emacs](emacs.md)       | A text editor that can do anything                              |
-| [Github](github.md)     |                                                                 |
-| [Markdown](markdown.md) | A lightweight markup language for creating notes and todo lists |
-| [Makefile](makefile.md) |                                                                 |
-| [Tmux](tmux.md)         |                                                                 |
+| [Emacs](notes/emacs.md)       | A text editor that can do anything                              |
+| [Github](notes/github.md)     |                                                                 |
+| [Markdown](notes/markdown.md) | A lightweight markup language for creating notes and todo lists |
+| [Makefile](notes/makefile.md) |                                                                 |
+| [Tmux](notes/tmux.md)         |                                                                 |
