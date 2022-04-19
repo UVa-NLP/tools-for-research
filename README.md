@@ -1,12 +1,12 @@
 # Tools for Research
 	
-| Name                          | Description                                                     |
-| :---                          | :---                                                            |
-| [Emacs](notes/emacs.md)       | A text editor that can do anything                              |
-| [Github](notes/github.md)     |                                                                 |
-| [Markdown](notes/markdown.md) | A lightweight markup language for creating notes and todo lists |
-| [Makefile](notes/makefile.md) |                                                                 |
-| [Tmux](notes/tmux.md)         |                                                                 |
-| [Zotero](notes/zotero.md)     | A reference manager                                             |
-|                               |                                                                 |
+| Name                          | Short description                  | Linux | Mac OS | Windows | iOS  | Android |
+| :---                          | :---                               | :---  | :---   | :---    | :--- | :---    |
+| [Emacs](notes/emacs.md)       | A text editor that can do anything | [x]   |        |         |      |         |
+| [Github](notes/github.md)     |                                    |       |        |         |      |         |
+| [Markdown](notes/markdown.md) | A lightweight markup language      |       |        |         |      |         |
+| [Makefile](notes/makefile.md) |                                    |       |        |         |      |         |
+| [Tmux](notes/tmux.md)         |                                    |       |        |         |      |         |
+| [Zotero](notes/zotero.md)     | A reference manager                |       |        |         |      |         |
+|                               |                                    |       |        |         |      |         |
 
