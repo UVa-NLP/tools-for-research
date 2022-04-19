@@ -2,7 +2,7 @@
 	
 | Name                          | Short description                  | Linux                 | Mac OS | Windows | iOS  | Android |
 | :---                          | :---                               | :---                  | :---   | :---    | :--- | :---    |
-| [Emacs](notes/emacs.md)       | A text editor that can do anything | <ul><li>[x]</li></ul> |        |         |      |         |
+| [Emacs](notes/emacs.md)       | A text editor that can do anything | <ul><li>[x] </li></ul> |        |         |      |         |
 | [Github](notes/github.md)     |                                    |                       |        |         |      |         |
 | [Markdown](notes/markdown.md) | A lightweight markup language      |                       |        |         |      |         |
 | [Makefile](notes/makefile.md) |                                    |                       |        |         |      |         |
