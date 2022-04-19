@@ -1,6 +1,6 @@
 # Tools for Research
 	
-| Name                            | Short description                                                     | Linux                  | Mac OS                 | Windows                | iOS                    | Android                |
+| Name                            | Short description                                                     | Linux                  | MacOS                 | Windows                | iOS                    | Android                |
 | :---                            | :---                                                                  | :---                   | :---                   | :---                   | :---                   | :---                   |
 | [Emacs](notes/emacs.md)         | A text editor that can do anything                                    | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |                        |                        |
 | [Github](notes/github.md)       | A version control platform using Git                                  | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
