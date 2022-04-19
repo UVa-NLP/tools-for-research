@@ -1,8 +1,8 @@
 # Tools for Research
 	
-| Name                            | Short description                                                     | Linux                  | MacOS                 | Windows                | iOS                    | Android                |
+| Name                            | Short description                                                     | Linux                  | MacOS                  | Windows                | iOS                    | Android                |
 | :---                            | :---                                                                  | :---                   | :---                   | :---                   | :---                   | :---                   |
-| [Emacs](notes/emacs.md)         | A text editor that can do anything                                    | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |                        |                        |
+| [Emacs](notes/emacs.md)         | A text editor                                                         | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |                        |                        |
 | [Github](notes/github.md)       | A version control platform using Git                                  | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | [GNU Make](notes/makefile.md)   | For compiling source code                                             | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |                        |                        |
 | [Notability]()                  | A note-taking app                                                     |                        | <ul><li>[x] </li></ul> |                        | <ul><li>[x] </li></ul> |                        |
